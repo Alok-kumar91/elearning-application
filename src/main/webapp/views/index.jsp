@@ -11,7 +11,7 @@
 <form:form action="register" modelAttribute="student" method="POST">
       <table>
      <tr>
-				<td>Student Id</td>
+				<td>Student IId</td>
 				<td><form:input path="studentId"/></td>
       </tr>
       
