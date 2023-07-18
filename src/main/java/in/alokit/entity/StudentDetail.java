@@ -19,6 +19,7 @@ public class StudentDetail {
     private Address add;
 
 	private String studentName;
+	private String str1;
 	private Integer rollNum;
 	private String email;
 	private Long mobileNum;

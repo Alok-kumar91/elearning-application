@@ -16,6 +16,11 @@ public class StudentDetailController {
 	@Autowired
 	private StudentDetailService sds;
 	private String name;
+
+	private int age;
+
+
+
 	
 	@GetMapping("/")
 	public String openForm(Model model) {
