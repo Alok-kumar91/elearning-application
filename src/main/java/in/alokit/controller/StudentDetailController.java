@@ -17,6 +17,7 @@ public class StudentDetailController {
 	private StudentDetailService sds;
 	private String name;
 	private String bb;
+	private String cc;
 	
 	@GetMapping("/")
 	public String openForm(Model model) {
