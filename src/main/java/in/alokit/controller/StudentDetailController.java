@@ -16,7 +16,7 @@ public class StudentDetailController {
 	@Autowired
 	private StudentDetailService sds;
 	private String name;
-	private String aa;
+	private String a;
 	private String bb;
 	private String cc;
 	
