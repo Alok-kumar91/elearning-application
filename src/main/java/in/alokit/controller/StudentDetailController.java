@@ -15,7 +15,7 @@ import in.alokit.service.StudentDetailService;
 public class StudentDetailController {
 	@Autowired
 	private StudentDetailService sds;
-	private String name;
+	private String aa;
 	
 	@GetMapping("/")
 	public String openForm(Model model) {
