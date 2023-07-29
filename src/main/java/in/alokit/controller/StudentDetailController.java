@@ -17,6 +17,7 @@ public class StudentDetailController {
 	private StudentDetailService sds;
 	private String name;
 	private String aa;
+	private String satish;
 	private String bb;
 	private String cc;
 	
